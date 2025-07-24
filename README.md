@@ -15,7 +15,7 @@
 
 <div id="top" align="center">
 
-[![arXiv](https://img.shields.io/badge/arXiv-2506.19816-green)](https://yangs03.github.io/InstructVLA_Home/)
+[![arXiv](https://img.shields.io/badge/arXiv-2507.17520-green)](http://arxiv.org/abs/2507.17520/)
 [![Homepage](https://img.shields.io/badge/Homepage-%F0%9F%8C%90-blue)](https://yangs03.github.io/InstructVLA_Home/)
 
 </div>
